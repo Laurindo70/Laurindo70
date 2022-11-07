@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @Laurindo70
-- 👀 I'm interested in C# and Dotnet
-- 🌱 I'm currently learning Android Studio and Dotnet
+- 👀 I'm interested in C# and Dotnet.
+- 🌱 I'm currently learning Android Studio and Dotnet.
+- my portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
 <div align="center">
   <a href="https://github.com/Laurindo70">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurindo70&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
