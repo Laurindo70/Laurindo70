@@ -1,12 +1,18 @@
-## 👋 Hi, I’m @Laurindo70
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecf0f1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronan+Laurindo;I'm+20+years+old;I'm+from+Brazil,MS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 👀 I'm interested in C# and Dotnet.
 - 🌱 I'm currently learning Android Studio and Dotnet.
 - my portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
+
+
 <div align="center">
   <a href="https://github.com/Laurindo70">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurindo70&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurindo70&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  ##
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Laurindo70&bg_color=2c3e50&color=bdc3c7&line=ecf0f1&point=7f8c8d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ##
   
@@ -26,5 +32,14 @@
   <div> 
   <a href = "mailto:ronantech70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronan-laurindo-1079241a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   </div>
+   
+  ##
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Laurindo70}/count.svg" /></p> 
+<br>
 </div>
+ 
+
