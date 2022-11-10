@@ -1,7 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecf0f1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronan+Laurindo;I'm+20+years+old;I'm+from+Brazil,MS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3d5FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronan+Laurindo;I'm+20+years+old;I'm+from+Brazil,MS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 👀 I'm interested in C# and Dotnet.
 - 🌱 I'm currently learning Android Studio and Dotnet.
-- my portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
+- My portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
 
 
 <div align="center">
@@ -12,11 +12,11 @@
 
   ##
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Laurindo70&bg_color=2c3e50&color=bdc3c7&line=ecf0f1&point=7f8c8d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Laurindo70&bg_color=A3D5FF&color=1C69A7&line=654EAE&point=190554&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ##
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Laurindo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laurindo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Laurindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
   
   ##
   
-  <div> 
+  <div align="center"> 
   <a href = "mailto:ronantech70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronan-laurindo-1079241a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
