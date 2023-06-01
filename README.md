@@ -12,7 +12,7 @@
 
   ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Laurindo70&bg_color=A3D5FF&color=1C69A7&line=654EAE&point=190554&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laurindo70&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ##
   
