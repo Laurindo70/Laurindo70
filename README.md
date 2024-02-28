@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3d5FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronan+Laurindo;I'm+20+years+old;I'm+from+Brazil,MS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3d5FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronan+Laurindo;I'm+21+years+old;I'm+from+Brazil,MS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 👀 I'm interested in C# and Dotnet.
 - 🌱 I'm currently learning Android Studio and Dotnet.
 - My portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
