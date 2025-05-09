@@ -6,17 +6,9 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laurindo70&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laurindo70&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-
-
-<div align="center">
-  <a href="https://github.com/Laurindo70">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurindo70&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurindo70&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
   ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laurindo70&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laurindo70&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ##
   
