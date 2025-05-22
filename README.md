@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Android Studio.
 - My portfolio -> https://laurindo70.github.io/portifolio-laurindo70/
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laurindo70&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laurindo70&theme=high-contrast)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laurindo70&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laurindo70&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
    ##
@@ -24,7 +24,7 @@
   
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=Laurindo70&row=1&column=6&theme=high-contrast&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Laurindo70&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
   ##
