@@ -20,14 +20,10 @@
   ⚙️ Tools & DevOps: <strong>Git, GitHub, GitHubActions, Docker, DockerHub, Visual Studio 2022, Visual Studio Code, Agile Methodologies (Scrum/Kanban)</strong>
 </p>
 
-##
-
-<div align="center"> 
+<p align="left">
   <a href = "mailto:ronantech70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronan-laurindo-flor-1079241a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-   
-##
+</p>
 
 ##
 
